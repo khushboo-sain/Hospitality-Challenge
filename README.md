@@ -4,9 +4,8 @@ As part of the codebasics september month resume challenge, I have worked on thi
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard](https://www.novypro.com/project/-codebasics-september-month-resume-challenge)
-
-Link to [Presentation Video](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6977486712180527105-17Hm)
+Link to [Interactive Dashboard](https://www.novypro.com/project/atliq-hospitality-analysis-12)
+                   
 
 ## Problem statement
 
@@ -24,28 +23,16 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
+    <img src="https://github.com/khushboo-sain/Hospitality-Challenge/blob/master/Report/hospitality%20challenge%20cover%20photo.jpeg" width="600">
 </p>
 
 
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
+    <img src='https://github.com/khushboo-sain/Hospitality-Challenge/blob/master/Report/Screenshot%202023-09-03%20144612.png' height="400">
 </p>
 
-
-## Overall Analysis View
-
-<p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
-</p>
-
-## Monthly Analysis View
-
-<p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
-</p>
 
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
