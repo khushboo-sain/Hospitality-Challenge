@@ -23,14 +23,14 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="https://github.com/khushboo-sain/Hospitality-Challenge/blob/master/Report/hospitality%20challenge%20cover%20photo.jpeg" width="600">
+    <img src="https://github.com/khushboo-sain/Hospitality-Challenge/blob/master/Report/hospitality-dashboard.jpeg" width="600">
 </p>
 
 
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/khushboo-sain/Hospitality-Challenge/blob/master/Report/Screenshot%202023-09-03%20144612.png' height="400">
+    <img src='https://github.com/khushboo-sain/Hospitality-Challenge/blob/master/Report/data-model.png' height="400">
 </p>
 
 
