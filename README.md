@@ -34,11 +34,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 </p>
 
 
-## Learnt things from this Project 
-- Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
-- By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
-- Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection. website like page navigation [YouTube tutorial](https://www.youtube.com/watch?v=xCSYLrcLW00)   )
-- Tried using color palette and stick with that colors throughout the dashboard ([Color palette link](https://colorhunt.co/palette/06113cff8c32ddddddeeeeee))
 
 ## Some Important insights from the Dashboard
 
